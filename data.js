@@ -1,1 +1,0 @@
-const tripPlan=[{date:'31 июля',title:'✈️ Вылет',events:['18:30 Внуково','19:20 бизнес-зал','22:05 вылет']},{date:'1 августа',title:'🇪🇬 Заселение',events:['Отель SUNRISE Remal Beach Resort','Пляж','Ужин']}];
